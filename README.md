@@ -1,4 +1,4 @@
-# TG 百大榜
+# 优质TG列表
 
 信息差一直是最赚钱的方式之一。
 
@@ -6,7 +6,7 @@
 
 列表会实时更新，也欢迎补充更多值得关注的频道。
 
-> 排名不分先后。
+注：排名不分先后。
 
 ## Crypto KOL
 
@@ -27,7 +27,7 @@
 | [pickle cat](https://x.com/0xPickleCati) | [@picklecati](https://t.me/picklecati) | 天才交易员，分享投资和生活 |
 | [Laolu](https://x.com/luyaoyuan) | [@laolunote](https://t.me/laolunote) | 分享币圈优质信息 |
 | [yueya](https://x.com/yueya_eth) | [@yueya_fnf](https://t.me/yueya_fnf) | 区块链投研，分享投研结果 |
-| [Leng](https://x.com/0xleng1) | TG 私域群 | 分享币圈信息 |
+| [Leng Call](https://t.me/+KPL_OCVVwF5lMWFk) | [加入频道](https://t.me/+KPL_OCVVwF5lMWFk) | 分享币圈信息 |
 | [anymose](https://x.com/anymose) | [@allforweb3](https://t.me/allforweb3) | 分析关于币圈的深刻见解，比如空投、投资等 |
 | [睡总](https://x.com/0xSleepinRain) | [@sleepingclub0](https://t.me/sleepingclub0) | 分享投资见解 |
 | [Roger波杰克](https://x.com/roger9949) | [@rogerbojack](https://t.me/rogerbojack) | 分享投资的思路 |
@@ -97,10 +97,10 @@
 | [Biteye](https://x.com/BiteyeCN) | [@biteyecn](https://t.me/biteyecn) | 分享 Web3 和 AI 新闻 |
 | [OdailyNews](https://x.com/OdailyChina) | [@Odaily_News](https://t.me/Odaily_News) | 分享市场的 Alpha 信息 |
 | [Foresight News](https://x.com/Foresight_News) | [@foresightnews](https://t.me/foresightnews) | 分享 Web3 和 AI 新闻 |
-| [DeJob｜Web3招聘求职](https://x.com/DeJob_Official) |  | 分享 Web3 中的求职信息 |
+| [DeJob｜Web3招聘求职](https://x.com/DeJob_Official) | [@DeJob_official](https://t.me/DeJob_official) | 分享 Web3 中的求职信息 |
 | [JinSe Finance](https://x.com/JinseFinance) | [@jinse2017](https://t.me/jinse2017) | 分享币圈快讯 |
 | [PANews Web3丨加密货币](https://x.com/PANews) | [@ChannelPANews](https://t.me/ChannelPANews) | 分享 Web3 信息 |
-| Polybeats | [@PolyBeats_Bot](https://t.me/PolyBeats_Bot) | 通过监控预测市场内幕交易发现的 Alpha 信息 |
+| [Polybeats](https://t.me/PolyBeats_Bot) | [@PolyBeats_Bot](https://t.me/PolyBeats_Bot) | 通过监控预测市场内幕交易发现的 Alpha 信息 |
 | [Base 中文台](https://x.com/basezh) | [@basezh](https://t.me/basezh) | Base 中文媒体，主要分享 Base 及其生态内容 |
 | [Trends](https://x.com/trendsdotfun) | [@trendsnewsCN](https://t.me/trendsnewsCN) | 分享代币相关新闻 |
 | [方程式新闻](https://x.com/bwenews) | [@BWEnews](https://t.me/BWEnews) | 实时市场 Alpha 信息流 |
