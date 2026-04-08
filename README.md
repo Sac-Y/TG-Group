@@ -141,9 +141,9 @@
 |:---|:---|:---|
 | [AI Post](https://x.com/aiposted) | [@aipost](https://t.me/aipost) | 最大的 AI 新闻源，分享 AI 趋势和动态 |
 | [Ash Crypto](https://x.com/AshCrypto) | [@AshCryptoTG](https://t.me/AshCryptoTG) | 分享 Web3 新闻和投资分析 |
-| [glassnode](https://x.com/glassnode) | [glassnode](https://t.me/glassnode) | 链上数据分析和定期周度总结 |
-| [The Block](https://x.com/TheBlockCo) | [the_block_crypto](https://t.me/the_block_crypto) | 分享 Web3 新闻 |
-| [CoinDesk](https://x.com/CoinDesk) | [CoinDeskGlobal](https://t.me/CoinDeskGlobal) | 分享 Web3 新闻 |
+| [glassnode](https://x.com/glassnode) | [@glassnode](https://t.me/glassnode) | 链上数据分析和定期周度总结 |
+| [The Block](https://x.com/TheBlockCo) | [@the_block_crypto](https://t.me/the_block_crypto) | 分享 Web3 新闻 |
+| [CoinDesk](https://x.com/CoinDesk) | [@CoinDeskGlobal](https://t.me/CoinDeskGlobal) | 分享 Web3 新闻 |
 | [Cointelegraph](https://x.com/Cointelegraph) | [@cointelegraph](https://t.me/cointelegraph) | 分享 Web3 新闻 |
 | [Shoal Research](https://x.com/Shoalresearch) | [@shoalresearch](https://t.me/shoalresearch) | 分享高质量加密货币、Defi 新闻和洞见 |
 | [OverDose](https://x.com/Overdose_AI) | [@overdose_gems_calls](https://t.me/overdose_gems_calls) | 分享 DeFi 和小市值币种相关分析 |
@@ -151,3 +151,7 @@
 | Hi, AI • Tech News | [@hiaimediaen](https://t.me/hiaimediaen) | 分享 AI 新闻 |
 | [Bloomberg](https://x.com/business) | [@Bloomberg](https://t.me/Bloomberg) | 分享商业、金融、科技新闻 |
 | Startups & Ventures | [@tech](https://t.me/tech) | 分享全球初创企业新闻、科技动态 |
+
+## 参考
+
+https://x.com/Tintinx2021/status/1872353497066488218
