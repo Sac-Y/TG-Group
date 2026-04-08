@@ -8,19 +8,25 @@
 
 注：排名不分先后。
 
+## 仓库作者
+
+| 名称 | TG 频道 | 介绍 |
+|:---|:---|:---|
+| [Sac](https://x.com/Saccc_c) | [@Sacccgx](https://t.me/Sacccgx) | 日常分享关于 AI 和 Web3 的相关思考 |
+
 ## 中文区 KOL
 
 | 名称 | TG 频道 | 介绍 |
 |:---|:---|:---|
-| [Gary](https://x.com/otzgary) | [@garyplaya](https://t.me/garyplaya) | 分享自己的深度见解，包括 AI、投资、生活等 |
-| [Vida](https://x.com/Vida_BWE) | [@journey_of_someone](https://t.me/journey_of_someone) | 分享自己的投资见解与赚钱方式 |
 | [玩偶姐姐](https://x.com/hongkongdoll) | [@dollcall](https://t.me/dollcall) | 分享了很多关于币圈赚钱的见解：包括投资、撸空投等 |
 | [BITWU.ETH](https://x.com/Bitwux) | [@bitewu](https://t.me/bitewu) | 分享关于币圈的深刻思考 |
 | [大宇](https://x.com/BTCdayu) | [@BTCdayu2](https://t.me/BTCdayu2) | 长文分享，都是特别优质的文章，主动帮你过滤了噪音 |
 | [0xWizard](https://x.com/0xcryptowizard) | [@groupdigest](https://t.me/groupdigest) | 巫师老师 vibe coding 的币圈信息监控系统 |
 | [0xsun](https://x.com/0xSunNFT) | [@CryptoMarketAggregator](https://t.me/CryptoMarketAggregator) | 0xsun vibe coding 的币圈新闻定时总结 |
+| [Vida](https://x.com/Vida_BWE) | [@journey_of_someone](https://t.me/journey_of_someone) | 分享自己的投资见解与赚钱方式 |
 | [0xWendy](https://x.com/0xWendy99) | [@wendy_alpha](https://t.me/wendy_alpha) | 分享投研知识、AI 洞见 |
 | [天策](https://x.com/Leobai825) | [@leobai825tian](https://t.me/leobai825tian) | 打造从 0 到 100 万的可复制教程，主要分享 AI 中的赚钱思路 |
+| [Gary](https://x.com/otzgary) | [@garyplaya](https://t.me/garyplaya) | 分享自己的深度见解，包括 AI、投资、生活等 |
 | [柴郡](https://x.com/0xCheshire) | [@Cheshire_Daily](https://t.me/Cheshire_Daily) | 分享投资、商业、AI 等多种知识 |
 | [币圈老司机](https://x.com/Bqlsj2023) | [@bqlsj2025](https://t.me/bqlsj2025) | 分享实用的行情分析和深刻的投资见解 |
 | [Ai 姨](https://x.com/ai_9684xtpa) | [@ai_9684xtpa](https://t.me/ai_9684xtpa) | 链上地址分析 |
